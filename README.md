@@ -45,10 +45,15 @@ After training, the model achieved an accuracy of approximately 98% on the test 
 ## Visualization Interface
 
 To use the visualization interface:
-1. Run the `app.py` script using Streamlit.
+1. Run the `app.py` script using Streamlit.: `streamlit run app.py`
 2. Choose the input method (`Canvas` or `Upload from folder`) from the sidebar.
 3. If using the canvas, draw a digit and let the model predict it. If uploading from a folder, select an image from the dropdown list.
 4. The predicted digit will be displayed along with the drawn/uploaded image.
+
+## Here the link for the live website:
+
+https://mnistneuralnetwork-jayachandranpm.streamlit.app/
+
 
 ---
 
